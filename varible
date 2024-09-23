@@ -1,0 +1,30 @@
+#variable
+
+x=2
+y=3
+
+print(x+y)
+
+#data varible
+#int, flo,str,bool
+
+name='nandi'
+age=18
+is_student='flase'
+weight=48.9
+
+print(type(name))
+print(type(age))
+print(type(is_student))
+print(type(weight))
+
+
+print(age)
+
+age_float=float(age)
+
+print(age_float)
+
+n=1000
+print(n+age_float)
+
