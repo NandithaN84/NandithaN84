@@ -1,0 +1,17 @@
+#varible  in python
+x=1
+y=2
+print(x+y)
+
+#case-sensitivity of varible
+a=25
+A=5
+print(a)
+
+print(A)
+
+#casting variable
+x='2'
+y='3'
+z='3'
+print(x+z)
