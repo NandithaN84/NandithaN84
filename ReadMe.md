@@ -1,4 +1,5 @@
 # 💫 About Me:
+   Hii I am Nanditha N
 💫 About Me :<br>🔭 I’m student <br>🌱 I’m currently learning  python<br>🤔 I’m looking for help with  engineering in Kannada<br>💬 Ask me about i am a student . i am study CSE&(AIML)<br>       I am start learning python <br>    <br>       
 
 
