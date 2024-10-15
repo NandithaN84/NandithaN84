@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Document</title>
+    </head>
+    <body>
+        <h1>Hello word</h1>
+        <h2><mark>Hello students this is mark tag</mark></h2>
+        <i>Italic tag </i><br>
+        <b>bold tag</b><br>
+        <p><strong>this is strong tag </strong></p>
+        <p><small>this is a small tag </small></p>
+        <p><u>this is underline tag </u></p>
+        <p>The chemical equcation of water is:   H<sub>2</sub>o</p>
+        <p>this is A<sup>3</sub></p>
+    </body>
+</html>
